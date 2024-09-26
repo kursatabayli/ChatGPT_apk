@@ -1,6 +1,6 @@
 ## **About This**
 
-This project is an .apk application developed for devices without Google Play Services.
+This project is an .apk developed for devices without Google Play Services.
 
 ### **Login Information**
 
